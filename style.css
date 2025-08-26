@@ -114,6 +114,11 @@ li:hover a {
   gap: 0.5rem;
 }
 
+main {
+  min-height: 100vh;
+}
+
+
 .main section {
   flex: 1 320px;
   background-color: #333131;
@@ -121,7 +126,6 @@ li:hover a {
   padding: 8px;
   border-radius: 8px;
   border: 1px solid #ffffff22;
-  min-width: 100vh;
 }
 
 section h2 {
